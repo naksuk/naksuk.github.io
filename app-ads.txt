@@ -1,3 +1,4 @@
 google.com, pub-4350310494009403, DIRECT, f08c47fec0942fa0
 applovin.com, 57afd1f42a1f5e19ac450f01c8c556e8, DIRECT
 vungle.com, 640aaa6f794ff100143c0012, DIRECT, c107d686becd2d77
+facebook.com, 228519499652427, DIRECT, c3e20eee3f780d68
